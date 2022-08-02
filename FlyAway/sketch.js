@@ -1,3 +1,6 @@
+//Codigo desenvolvido por:
+//Jeferson Bitencourt Vieira
+//Felipe Brocker Dornelles
 
 //Fundos e objetos
 let background1, titulo,play,balao,aviao,gameover,replay;
